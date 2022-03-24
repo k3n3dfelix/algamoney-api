@@ -1,4 +1,4 @@
-# algamoney-api
+# algamoney-api - Em Desenvolvimento
 <p align="center"> API Gestão Financeira </p>
 <p align="center">
   <a href="#sobre">Sobre</a>
